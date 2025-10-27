@@ -1,5 +1,0 @@
-Food 300.00
-Travel 0.00
-Rent 0.00
-Others 400.00
-Total 700.00
